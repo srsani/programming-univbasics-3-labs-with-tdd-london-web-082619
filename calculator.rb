@@ -1,2 +1,2 @@
 # Add your variables here
-get_variable_from_file = 1
+expect(second_number).not_to equal(0)
