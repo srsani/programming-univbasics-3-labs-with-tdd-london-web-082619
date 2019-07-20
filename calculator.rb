@@ -1,3 +1,3 @@
 # Add your variables here
 first_number
-def 
+def calculator (first_number, )
